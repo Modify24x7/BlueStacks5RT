@@ -6,7 +6,7 @@ BlueStacks 5 root / unroot automatically in less than 3 minutes!
 
 <section>
 <p align="left">
-<img src="https://raw.githubusercontent.com/Modify24x7/BlueStacks5RT/main/ART/hfgjfgjhfghf.PNG" alt="" height="380px" align="center" />
+<img src="https://raw.githubusercontent.com/Modify24x7/BlueStacks5RT/main/ART/hfgjfgjhfghf1.PNG" alt="" height="380px" align="center" />
 </p>
 </section>
 
