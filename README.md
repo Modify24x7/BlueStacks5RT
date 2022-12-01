@@ -13,7 +13,7 @@ BlueStacks 5 root / unroot automatically in less than 3 minutes!
 Note: Before using this tool, disconnect any device connected to the adb.
 
 ### Requirements
-    * BlueStacks 5
+    * BlueStacks 5 (Android Nougat)
     * .NET Framework v4.0
 
 Tutorials
